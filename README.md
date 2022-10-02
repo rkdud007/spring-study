@@ -22,6 +22,7 @@
 
 |닉네임|GitHub
 | ---- | --- |
+| Pia | [@rkdud007](https://github.com/rkdud007) |
 | NamJaeyong | [@NamJaeyong](https://github.com/NamJaeyong) |
 
 ## ✏️ Study
