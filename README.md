@@ -1,5 +1,11 @@
 # 👋 스프링 스터디
 
+## 📋 Goal
+[스프링 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8#reviews) 7주 완성
+[mvc 기본 패턴 1](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1) 6주 완성
+
+2022 년이 가기전에 스프링 개발을 혼자서 간단하게라도 할수있는 사람되기..
+
 ## 📋 Rule
 
 - 매주 두 ( 한) 챕터씩 공부합니다. ( 기본 2쳅터, 약 2시간 정도 강의 ) 
