@@ -22,6 +22,7 @@
 
 |닉네임|GitHub
 | ---- | --- |
+| NamJaeyong | [@NamJaeyong](https://github.com/NamJaeyong) |
 
 ## ✏️ Study
 
