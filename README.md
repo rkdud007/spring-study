@@ -12,9 +12,6 @@
 
 |닉네임|GitHub
 | ---- | --- |
-| pursue503 | [@pursue503](https://github.com/pursue503)
-| minnim6 | [@minnim6](https://github.com/minnim6)
-| chaenabi | [@chaenabi](https://github.com/chaenabi)
 
 ## ✏️ Study
 
@@ -26,8 +23,4 @@
 
 |닉네임| 정리
 | ---- | --- |
-| BEST | [@chaenabi](https://reminiscent-headlight-ee3.notion.site/1-fd3ff68f48434297a01ace0577a52e76)
-| pursue503 | [1장 - 오브젝트와 의존관계](https://github.com/pg-server-study/spring-study/tree/main/JH/chapter1)
-| minnim6 | [1장 - 오브젝트와 의존관계](https://github.com/pg-server-study/spring-study/blob/main/jeom/README.md.md)
-| chaenabi | [1장 - 오브젝트와 의존관계](https://github.com/pg-server-study/spring-study/tree/main/chaenabi/chapter1)
 
