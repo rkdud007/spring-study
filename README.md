@@ -24,6 +24,7 @@
 | ---- | --- |
 | Pia | [@rkdud007](https://github.com/rkdud007) |
 | NamJaeyong | [@NamJaeyong](https://github.com/NamJaeyong) |
+| j-epa-peace | [@j-epa-peace](https://github.com/j-epa-peace) |
 
 ## ✏️ Study
 
